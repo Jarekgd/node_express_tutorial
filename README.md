@@ -19,3 +19,4 @@
   },<br>
    Allows to start from: 'npmstart' or 'npm run dev'
    nodemon automatically refresh command line after saving.
+5. To uninstall package eg.: 'npm uninstall bootsrtap'
