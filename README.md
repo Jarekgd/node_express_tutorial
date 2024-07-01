@@ -12,3 +12,10 @@
    5. git remote add origin git@github.com:Jarekgd/node_express_tutorial.git
    6. git push -u origin main
 3. Install dev dependencies (requred only during development process - like tsting, code formatting, not usefull for a final product funcionality) eg. nodemon: 'npm i nodemon -D' or 'npm i nodemon --save-dev'
+4. In package.json:<br>
+   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },<br>
+   Allows to start from: 'npmstart' or 'npm run dev'
+   nodemon automatically refresh command line after saving.
