@@ -2,7 +2,7 @@
 [Link to the tutorial](https://www.youtube.com/watch?v=Oe421EPjeBE&t=3990s "Node.js and Express.js - Full Course ")
 
 1. node_modudels don't have to be pushed to github.
-   To avoid pushing add .gitignore file with text: /node_modules or select ignore Node when creating a repository.
+  To avoid pushing add .gitignore file with text: /node_modules or select ignore Node when creating a repository.
 3. commands to push new project:
    1. git init
    2. git add README.md
