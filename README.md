@@ -11,4 +11,4 @@
    4. git branch -M main
    5. git remote add origin git@github.com:Jarekgd/node_express_tutorial.git
    6. git push -u origin main
-3. Install dev dependencies (requred only during development proces, not for a final product funcionality) eg. nodemon: 'npm i nodemon -D' or 'npm i nodemon --save-dev'
+3. Install dev dependencies (requred only during development process, not for a final product funcionality) eg. nodemon: 'npm i nodemon -D' or 'npm i nodemon --save-dev'
