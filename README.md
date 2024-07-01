@@ -4,9 +4,9 @@
 1. node_modudels don't have to be pushed to github.
    To avoid pushing add .gitignore file with text: /node_modules or select ignore Node when creating a repository.
 3. commands to push new project:
-   1. git init
-   2. git add README.md
-   3. git commit -m "First commit"
-   4. git branch -M main
-   5. git remote add origin git@github.com:Jarekgd/node_express_tutorial.git
-   6. git push -u origin main
+  1. git init
+  2. git add README.md
+  3. git commit -m "First commit"
+  4. git branch -M main
+  5. git remote add origin git@github.com:Jarekgd/node_express_tutorial.git
+  6. git push -u origin main
