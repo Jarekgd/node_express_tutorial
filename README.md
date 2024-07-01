@@ -20,3 +20,4 @@
    Allows to start from: 'npmstart' or 'npm run dev'
    nodemon automatically refresh command line after saving.
 5. To uninstall package eg.: 'npm uninstall bootsrtap'
+  To manually remove package: delete whole 'node_modules', delete 'package-lock.json', delete package from "dependencies" in 'package.json', reinstall npm: 'npm install'
